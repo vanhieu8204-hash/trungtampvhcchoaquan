@@ -1,0 +1,27 @@
+@import "tailwindcss" source("../");
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  body {
+    margin: 0;
+    color: #1e293b;
+    background-color: #f8fafc;
+  }
+}
+
+/* Custom administrative banner pattern & badges */
+.gov-pattern {
+  background-color: #991b1b;
+  background-image: radial-gradient(rgba(254, 240, 138, 0.15) 1px, transparent 0);
+  background-size: 20px 20px;
+}
+
+.subtle-grid {
+  background-size: 40px 40px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.04) 1px, transparent 1px),
+                    linear-gradient(to bottom, rgba(0, 0, 0, 0.04) 1px, transparent 1px);
+}
