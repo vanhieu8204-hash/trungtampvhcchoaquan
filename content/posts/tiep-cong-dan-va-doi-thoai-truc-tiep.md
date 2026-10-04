@@ -9,7 +9,7 @@ image: "placeholder.png"
 slug: "tiep-cong-dan-va-doi-thoai-truc-tiep"
 ---
 
-Nhằm gắn kết mật thiết giữa chính quyền địa phương với nhân dân và không ngừng cải thiện chỉ số hài lòng của người dân (SIPAS), **Đồng chí Chủ tịch UBND xã Hoa Quân** duy trì nghiêm túc lịch tiếp công dân định kỳ vào ngày thứ Năm hàng tuần tại Phòng tiếp dân - Trung tâm Phục vụ Hành chính công xã.
+Nhằm gắn kết mật thiết giữa chính quyền địa phương với nhân dân và không ngừng cải thiện chỉ số hài lòng của người dân (SIPAS), **Đồng chí Chủ tịch UBND xã Hoa Quân** duy trì nghiêm túc lịch tiếp công dân định kỳ vào ngày 10 và 20 hàng tháng tại Phòng tiếp dân - Trung tâm Phục vụ Hành chính công xã.
 
 ### Nội dung buổi làm việc và đối thoại
 Tại các buổi tiếp công dân, lãnh đạo UBND xã trực tiếp lắng nghe những tâm tư, nguyện vọng, kiến nghị của công dân liên quan đến:
