@@ -16,7 +16,7 @@ Nhằm hỗ trợ công dân trên địa bàn xã Hoa Quân tiếp cận nhanh 
 - Sử dụng điện thoại thông minh chụp ảnh rõ nét các giấy tờ tùy thân và giấy tờ chứng minh theo yêu cầu của từng loại thủ tục (định dạng ảnh JPG, PNG hoặc file PDF dung lượng dưới 10MB).
 
 ### Bước 2: Truy cập Cổng Dịch vụ công
-- Truy cập địa chỉ Cổng Dịch vụ công Quốc gia: **dichvucong.gov.vn** hoặc Cổng Dịch vụ công tỉnh Nghệ An.
+- Truy cập địa chỉ Cổng Dịch vụ công Quốc gia: **dichvucong.gov.vn** hoặc Cổng Dịch vụ công Quốc gia.
 - Chọn **"Đăng nhập"** bằng tài khoản Định danh điện tử (VNeID).
 - Tìm kiếm tên thủ tục cần thực hiện (ví dụ: *Đăng ký khai sinh*, *Cấp bản sao trích lục hộ tịch*, *Xác nhận tình trạng hôn nhân*).
 
