@@ -5,7 +5,7 @@ CREATE TABLE "activities" (
 	"summary" text NOT NULL,
 	"content" text NOT NULL,
 	"category" text NOT NULL,
-	"author" text DEFAULT 'Bộ phận Một cửa xã Hoa Quân' NOT NULL,
+	"author" text DEFAULT 'Trung tâm Phục vụ hành chính công xã Hoa Quân' NOT NULL,
 	"date" text NOT NULL,
 	"views" integer DEFAULT 0,
 	"is_pinned" integer DEFAULT 0,
